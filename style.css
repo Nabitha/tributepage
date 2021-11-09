@@ -1,0 +1,200 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+main {
+  padding: 2% 5% ;
+} 
+
+
+ h1 {
+  font-size: 4rem;
+  color: white;
+}
+h2 {
+  color: rgb(240, 240, 240);
+}
+.base {
+  border-radius: 10px;
+  padding: 20px 20px 5px;
+  background-color: rgb(11, 4, 46);
+  text-align: center;
+  
+}
+
+.cover_image {
+  border-radius: 15px;
+  padding: 10px;
+  margin: 1px;
+  background-color: #ccc;
+
+  height: 800px;
+  width: 30%;
+}
+
+.cover_image .cover {
+  border-radius: 15px;
+  width: 100%;
+  height: 500px;
+}
+.cover_image .imgg {
+  border-radius: 20px;
+  width: 100%;
+  padding-top: 10px;
+  height: 35%;
+}
+
+.content {
+  border-radius: 15px;
+  text-align: left;
+  background-color: rgb(169, 169, 250);
+  padding: 15px;
+  font-size: 18px;
+  width: 65%;
+  margin-left: 550px;
+  margin-top: -820px;
+  height: 790px;
+  
+}
+
+.content ul {
+ 
+  text-align: left;
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  list-style: disc;
+  list-style-position: inside;
+}
+
+.content ul li {
+  font-weight: 100;
+}
+
+.quotes {
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+  color: black;
+}
+a {
+  color: white;
+}
+.footer {
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+  @media (min-width: 768px) and (min-height: 1024px){
+
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+  
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  
+  main {
+    padding: 1% 4% ;
+   
+  }  
+ 
+  
+  h1 {
+    font-size: 4em;
+    color: white;
+  }
+ 
+.container{
+ margin-bottom: 10px;
+}
+  h2 {
+    color: rgb(240, 240, 240);
+   
+  }
+    .base {
+    border-radius: 20px;
+    padding: 30px 30px 5px;
+    background-color: rgb(11, 4, 46);
+    text-align: center;
+   
+  }
+   
+  .cover_image {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 1px;
+    background-color: #ccc;
+  
+    height: 1300px;
+    width: 30%;
+  }
+  
+ .cover_image .cover {
+    border-radius: 20px;
+    width: 100%;
+    height: 800px;
+  }
+  .cover_image .imgg {
+    border-radius: 20px;
+    width: 100%;
+    padding-top: 10px;
+    height: 35%;
+  }
+  
+  .content {
+    border-radius: 20px;
+    text-align: left;
+    background-color: rgb(169, 169, 250);
+    padding: 8px;
+    font-size: 20px;
+    width: 65%;
+    margin-left: 230px;
+    margin-top: -1320px;
+    margin-bottom: 100px;
+    height: 1300px;
+    
+  }
+  .footer {
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: -100px;
+  }   }
+  
+ /* .content ul {
+   
+    text-align: left;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    list-style: disc;
+    list-style-position: inside;
+  }
+  
+  .content ul li {
+    font-weight: 100;
+  }
+  
+  .quotes {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    color: black;
+  }
+  a {
+    color: white;
+  }*/
+ 
+
+
+ 
+ 
